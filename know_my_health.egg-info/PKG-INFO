@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: know-my-health
+Version: 0.1
+Requires-Dist: boto3
+Requires-Dist: click
+Requires-Dist: matplotlib
