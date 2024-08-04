@@ -22,7 +22,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/know-my-health.git
+    git clone https://github.com/prabhur24/know-my-health.git
     cd know-my-health
     ```
 
